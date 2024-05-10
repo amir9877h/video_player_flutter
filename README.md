@@ -1,4 +1,4 @@
-# video_player
+# xvideo_player
 
 A new Flutter project.
 
